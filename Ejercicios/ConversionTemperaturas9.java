@@ -28,6 +28,8 @@ public class ConversionTemperaturas9 {
         System.out.println("La temperatura en grados Fahrenheit es de: " + tempFahrenheit);
         System.out.println("La temperatura en grados Kelvin es de: " + tempKelvin);
 
+        // hola mi nombre es majo 
+
         scanner.close();
     }
 }
